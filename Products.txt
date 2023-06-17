@@ -1,0 +1,27 @@
+ITEM_LIST
+{
+    ITEM
+    {
+        CODE 10
+        DESCR Product1
+        AFM 501
+    }
+    ITEM
+    {
+        CODE 20
+        DESCR Product2
+        AFM 502
+    }
+    ITEM
+    {
+        CODE 30
+        DESCR Product3
+        AFM 503
+    }
+    ITEM
+    {
+        CODE 40
+        DESCR Product4
+        AFM 504
+    }
+}

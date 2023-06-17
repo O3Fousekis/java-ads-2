@@ -1,0 +1,48 @@
+ADVTYPE_LIST
+{
+	ADVTYPE
+	{
+		ADCODE 100
+		DESCR Newspaper1
+	}
+	ADVTYPE
+	{
+		ADCODE 101
+		DESCR Newspaper2
+	}
+	ADVTYPE
+	{
+		ADCODE 102
+		DESCR Magazine1
+	}
+	ADVTYPE
+	{
+		ADCODE 200
+		DESCR Radio1
+	}
+	ADVTYPE
+	{
+		ADCODE 201
+		DESCR Radio2
+	}
+	ADVTYPE
+	{
+		ADCODE 202
+		DESCR TV1
+	}
+	ADVTYPE
+	{
+		ADCODE 300
+		DESCR Web1
+	}
+	ADVTYPE
+	{
+		ADCODE 301
+		DESCR Web2
+	}
+	ADVTYPE
+	{
+		ADCODE 302
+		DESCR Web3
+	}
+}

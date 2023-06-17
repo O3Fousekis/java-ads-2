@@ -1,0 +1,23 @@
+COMPANY_LIST
+{
+    COMPANY
+    {
+        AFM 1000
+        NAME brand1
+    }
+    COMPANY
+    {
+        AFM 2000
+        NAME brand2
+    }
+    COMPANY
+    {
+        AFM 3000
+        NAME brand3
+    }
+    COMPANY
+    {
+        AFM 4000
+        NAME brand4
+    }
+}
